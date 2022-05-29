@@ -1,5 +1,4 @@
 import os
-from tkinter.tix import InputOnly
 os.system('cls')
 
 # تابعی برای بررسی اعداد اول
