@@ -2,7 +2,7 @@ import os
 from tkinter.tix import InputOnly
 os.system('cls')
 
-# تابعی تعریف کنید که تعدادی نام دانشجو دریافت و برعکس ترتیب ورودی نمایش دهد.
+# تابعی برای بررسی اعداد اول
 
 def check_prime(num):
     if num==1:
